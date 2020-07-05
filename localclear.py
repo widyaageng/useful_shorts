@@ -1,6 +1,7 @@
 """
 To be imported and used
 to clear the screen in python terminal
+with clscreen()
 """
 import os
 
